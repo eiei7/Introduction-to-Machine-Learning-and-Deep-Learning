@@ -5,3 +5,6 @@ Assignment records
 ### Tech stack:
 
 Python, Machine Learning, Deep Learning
+
+### libs
+Numpy, Tensorflow, Keras, Pandas, Matplotlib, etc.
